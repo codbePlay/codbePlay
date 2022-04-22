@@ -1,5 +1,5 @@
-### 👋 Hi, I'm David from the UK, I'm starting out as a developer.
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript and Python.
+### 👋 Hi, I'm David from the UK.
+- 🌱 HTML5, CSS3, JavaScript and Python.
 - 👀 I'm interested in Web Page Design and anything I can use my skills to create.
 
 <!--
